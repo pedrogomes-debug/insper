@@ -1,0 +1,5 @@
+server.js
+*.bat
+*.log
+node_modules
+.vercel
